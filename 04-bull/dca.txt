@@ -6,4 +6,4 @@ buy_trigger_2 = -2.77
 buy_trigger_3 = -7.77
 buy_trigger_4 = -9.77
 buy_trigger_5 = -15.77
-buy_trigger_7 = -15.77
+buy_trigger_6 = -15.77
