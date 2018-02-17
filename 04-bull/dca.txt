@@ -8,3 +8,4 @@ buy_trigger_4 = -9.77
 buy_trigger_5 = -15.77
 buy_trigger_6 = -15.77
 buy_available_volume_trigger = 120
+ignore_sell_only_mode = true
