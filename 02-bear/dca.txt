@@ -10,3 +10,4 @@ buy_trigger_6 = -19.5
 buy_trigger_7 = -25.5
 buy_available_volume_trigger = 120
 ignore_sell_only_mode = true
+rebuy_timeout = 5
