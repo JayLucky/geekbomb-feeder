@@ -1,4 +1,4 @@
-Profit Trailer Settings
+Profit Trailer Feeder Settings
 ========================
 These are configuration settings for [Profit Trailer Feeder](https://github.com/mehtadone/PTFeeder) (PTF/PTFeeder)
 
