@@ -1,3 +1,3 @@
 ALL_hidden_pairs = BNBBTC
 ALL_buy_available_volume_trigger = 120
-ALL_rebuy_timeout = 5
+ALL_rebuy_timeout = 15
